@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Initial post"
+date:   2021-03-09 14:20:52 +0100
+categories: test
+---
+
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
+See my videos at:
+[youtube]: https://www.youtube.com/channel/UCGELjLdNY-Bm3kTmAQB0Unw
+
+Code for my projects is available at:
+[github]: https://github.com/neglectedfuture
+
