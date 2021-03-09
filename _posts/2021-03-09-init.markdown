@@ -6,18 +6,8 @@ categories: test
 ---
 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
+[See my videos on youtube here](https://www.youtube.com/channel/UCGELjLdNY-Bm3kTmAQB0Unw)
 
-See my videos at:
-[youtube]: https://www.youtube.com/channel/UCGELjLdNY-Bm3kTmAQB0Unw
-
-Code for my projects is available at:
-[github]: https://github.com/neglectedfuture
+[Code for my projects is on github here](https://github.com/neglectedfuture)
 
