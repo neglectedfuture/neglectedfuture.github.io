@@ -21,7 +21,7 @@
 title: Neglected Future
 email: neglectedfuture@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My analysis on what we need to do to solve the climate crisis.
+  For too long we have been neglecting future generations. My analysis on what we need to do to solve the climate crisis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neglectedfuture.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: neglectedfuture
