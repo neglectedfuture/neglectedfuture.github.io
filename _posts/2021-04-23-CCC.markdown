@@ -1,16 +1,23 @@
 ---
 layout: post
-title:  "Citizen's Convention on Climate"
-date:   2021-04-23 14:20:52 +0100
+title:  "Citizens Convention for Climate"
+date:   2021-04-23 19:20:52 +0100
 categories: videos
 ---
 
-What if instead of everyday politicians deciding policies, we had everyday people sit down and learn about climate change and decide what to do?
+[See my first video on France's Citizens Convention for climate here](https://www.youtube.com/watch?v=pTd_wV7BPws)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTd_wV7BPws?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What if instead of everyday politicians deciding policies, we had everyday people sit down and learn about climate change and decide what to do? France is currently involved in an experiment to explore this, in which a randomly selected group of citizens learn about climate change and the tradeoffs of different policy options. Are the policies they voted on any different from legislatures around the world?
 
 ![CCC informed ppl change](/assets/CCC_delta.png)
 
+One interesting finding is that a random cross-section of French citizens, once they are informed about the situation, favor adopting some real policies that go much beyond what most politicians have proposed.
+
+For their proposals to become law, however, they still need to be passed by Parliament through the regular legislative process. While this is still ongoing, the early results have led members of the Convention to say that their proposals have been watered down or even undermined. See the video for more details.
 
 [See my videos on youtube here](https://www.youtube.com/channel/UCGELjLdNY-Bm3kTmAQB0Unw)
 
-[Code for my projects is on github here](https://github.com/neglectedfuture)
+# [Code for my projects is on github here](https://github.com/neglectedfuture)
 

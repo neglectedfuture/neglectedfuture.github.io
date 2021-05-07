@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+![CCC informed ppl change](/assets/logo_bl.png)
+
+[See my videos on youtube here](https://www.youtube.com/channel/UCGELjLdNY-Bm3kTmAQB0Unw)
