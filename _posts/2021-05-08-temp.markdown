@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Global average temperatures visualization"
+date:   2021-05-08 00:20:52 +0100
+categories: videos
+---
+
+As a starting point, I put together this simple visualization of global average temperature anomolies based on the 
+[HadCRUT4 data set](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@neglectedfuture/video/6959672223300947206" data-video-id="6959672223300947206" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@neglectedfuture" href="https://www.tiktok.com/@neglectedfuture">@neglectedfuture</a> <p>share your reaction: global average temperature change <a title="climatechange" target="_blank" href="https://www.tiktok.com/tag/climatechange">#climatechange</a> <a title="climatecrisis" target="_blank" href="https://www.tiktok.com/tag/climatecrisis">#climatecrisis</a></p> <a target="_blank" title="♬ Hot - Skillibeng" href="https://www.tiktok.com/music/Hot-6890716688761751554">♬ Hot - Skillibeng</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
