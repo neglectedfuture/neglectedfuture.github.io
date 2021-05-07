@@ -33,7 +33,7 @@ youtube_channel_name: Neglected Future
 
 # Build settings
 theme: minima
-  skin: dark
+#  skin: dark
 plugins:
   - jekyll-feed
 
