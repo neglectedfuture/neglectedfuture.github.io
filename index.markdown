@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-![CCC informed ppl change](/assets/logo.png)
